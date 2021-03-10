@@ -1,0 +1,7 @@
+Levels:
+  1:
+    name: "Tier 1 Printer"
+    skin: "7769a62c-e1f8-4683-b481-b61c893606ae"
+    refreshTime: 20
+    money: 10
+    destroyTime: 400

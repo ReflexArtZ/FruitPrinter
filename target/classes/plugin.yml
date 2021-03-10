@@ -1,0 +1,12 @@
+name: FruitPrinter
+version: 1.0-SNAPSHOT
+main: de.emeraldmc.fruitprinter.FruitPrinter
+prefix: FruitPrinter
+authors: [RFLX]
+api-version: 1.13
+description: Print your own money with the Fruit Printer!
+commands:
+  mp:
+    description: Gives a player some Fruit Printers
+    usage: /mp give [player] [level] [amount]
+    permission: mp.give

@@ -1,0 +1,12 @@
+Config:
+  prefix: "&a&lF&rruit&a&lP&rrinter &6> &7"
+  debug: true
+  maxPrintersPerPlayer: 2
+
+  Messages:
+    giveMsg: "You gave &6%player% &7the Fruit PrinterType!"
+    gotMsg: "You got Fruit PrinterType from &6%player% &7!"
+    earnedMoneyMsg: "Your Fruit Printer printed you &a%money% &7€"
+    destroyMsg: "Your Fruit Printer is about to &cDESTROY &7come and get your printed money!"
+    maxPrintersMsg: "You already reached your max printers count!"
+    playerNotOnlineMsg: "The Player &c%player% &7is not online!"
